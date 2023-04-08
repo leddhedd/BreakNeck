@@ -4,7 +4,7 @@ BreakNeck Toolhead for the Voron ecosystem. CPAP + experimental filament path
 Currently Supported Hardware:
 
 Extruders:
-VZ-Hextrudort
+VZ-Hextrudort ; 
 microsherpa
 
 planned:
