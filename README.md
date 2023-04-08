@@ -5,8 +5,9 @@ Currently Supported Hardware:
 
 Extruders:
 VZ-Hextrudort
-planned:
 microsherpa
+
+planned:
 DFA
 
 Hotends:
