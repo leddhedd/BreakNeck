@@ -2,7 +2,8 @@
 BreakNeck Toolhead for the Voron ecosystem. CPAP + experimental filament path
 
 
-What is this?
+**What is this?**
+
 if you have stumbled across this repo somehow in the early stages of development, and there is very little info here, a little summary of what is going on:
 Breakneck is a toolhead designed primarily for the Voron ecosystem, and any other front rail, front belt CoreXY Printer.
 The main features and testing focus of the toolhead are remote air cooling, and a deliberate bend in the post-extruder filament path, for the purposes of inducing a bowden-like buffering effect.
