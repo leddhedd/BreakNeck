@@ -29,8 +29,10 @@ strikethrough is incomplete but planned
 ### Extruders
 VZ-Hextrudort
 microsherpa
-~~DFA
-TwistChief~~
+~~
+- DFA
+- TwistChief
+~~
 
 
 ### Hotends:
