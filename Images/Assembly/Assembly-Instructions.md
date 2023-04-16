@@ -8,7 +8,7 @@
 
 ![image](https://github.com/leddhedd/BreakNeck/blob/main/Images/Assembly/1-3-microsherp%20inserts.png)
 
-# MICROSHERPA ONLY  ^^^^
+*** MICROSHERPA ONLY  ^^^^ ***
 
 ![image](https://github.com/leddhedd/BreakNeck/blob/main/Images/Assembly/2-1-attach%20probe.png)
 
