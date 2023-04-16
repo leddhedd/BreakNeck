@@ -1,11 +1,11 @@
 # BreakNeck
 BreakNeck Toolhead for the Voron ecosystem. CPAP + experimental filament path
 
-##THIS IS A WIP
+## THIS IS A WIP
 BreakNeck is currently in Semi-Closed Alpha, that is to say, i havent publicly shared this repo, but it is not private, and has been shared around a little, however the toolhead is NOT feature complete yet, and will not be fully documented until open beta
 
 
-##What is this?
+## What is this?
 
 if you have stumbled across this repo somehow in the early stages of development, and there is very little info here, a little summary of what is going on:
 
@@ -23,29 +23,33 @@ in testing so far, the breakneck extruder mount seems to be producing a similar 
 
 
 
-##Currently Supported Hardware:
+## Currently Supported Hardware:
 strikethrough is incomplete but planned
 
-###Extruders
+### Extruders
 VZ-Hextrudort
 microsherpa
+~~DFA
+TwistChief~~
 
-###Hotends:
+
+### Hotends:
 Goliath - LARGE
 RapidoUHF - Medium
 RapidoHF - Small
 ~~DragonUHF
-~~Waterheater
+Waterheater~~
 
-###Probes
+### Probes
 Beacon
 ~~TAP
-~~Klicky/PCB
-~~Euclid
+Klicky/PCB
+Euclid~~
 
 More to be added as development continues.
 
-#WE STAND ON THE SHOULDERS OF GIANTS
+# WE STAND ON THE SHOULDERS OF GIANTS
+
 i want to give a particularly huge thanks to DoubleT, aTinyShellScript, Derpimus, Corvid, Kmobs, ohpvp, and many others for getting stuck in, test printing parts, and in some particularly idiotic cases, trialing, fitting and using the toolhead. the 3dp community wouldnt be what it is without the contibution and help of individuals like these, and i certainly wouldnt have completed the project to this level of polish without their help.
 
 Huge thanks to all the guys over at the Armchair Engineering, Voron, and Annex discord for all the help and support in bringing this project together.
