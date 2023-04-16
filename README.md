@@ -29,21 +29,21 @@ strikethrough is incomplete but planned
 ### Extruders
 - VZ-Hextrudort
 - microsherpa
-- ~~DFA
-- ~~TwistChief
+- ~~DFA~~
+- ~~TwistChief~~
 
 ### Hotends:
 - Goliath - LARGE
 - RapidoUHF - Medium
 - RapidoHF - Small
-- ~~DragonUHF
-- ~~Waterheater
+- ~~DragonUHF~~
+- ~~Waterheater~~
 
 ### Probes
 - Beacon
-- ~~TAP
-- ~~Klicky/PCB
-- ~~Euclid
+- ~~TAP~~
+- ~~Klicky/PCB~~
+- ~~Euclid~~
 
 More to be added as development continues.
 
