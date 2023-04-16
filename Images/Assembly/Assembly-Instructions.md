@@ -6,7 +6,7 @@ Install a standard heatset into the front of the carraige mount
 
 ![image](https://github.com/leddhedd/BreakNeck/blob/main/Images/Assembly/1-2-rear%20carriage%20inserts.png)
 
-insert a heatset into each of the holes shown, the carriage clamp can be used [EXCEPT WITH SMALL BEACON MOUNT] with an m3 SHCS with an m4 washer on it, loosely installed until after mounting to the rtail carriage
+insert a heatset into each of the holes shown, the carriage clamp can be used [EXCEPT WITH SMALL BEACON MOUNT] with an m3 SHCS with an m4 washer on it, loosely installed until after mounting to the rail carriage
 
 ![image](https://github.com/leddhedd/BreakNeck/blob/main/Images/Assembly/1-3-Extruder%20block%20inserts.png)
 
