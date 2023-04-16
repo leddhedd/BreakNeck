@@ -27,26 +27,23 @@ in testing so far, the breakneck extruder mount seems to be producing a similar 
 strikethrough is incomplete but planned
 
 ### Extruders
-VZ-Hextrudort
-microsherpa
-~~
-- DFA
-- TwistChief
-~~
-
+- VZ-Hextrudort
+- microsherpa
+- ~~DFA
+- ~~TwistChief
 
 ### Hotends:
-Goliath - LARGE
-RapidoUHF - Medium
-RapidoHF - Small
-~~DragonUHF
-Waterheater~~
+- Goliath - LARGE
+- RapidoUHF - Medium
+- RapidoHF - Small
+- ~~DragonUHF
+- ~~Waterheater
 
 ### Probes
-Beacon
-~~TAP
-Klicky/PCB
-Euclid~~
+- Beacon
+- ~~TAP
+- ~~Klicky/PCB
+- ~~Euclid
 
 More to be added as development continues.
 
