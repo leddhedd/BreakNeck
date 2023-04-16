@@ -36,6 +36,12 @@ in testing so far, the breakneck extruder mount seems to be producing a similar 
 ## Currently Supported Hardware:
 strikethrough is incomplete but planned
 
+### Carriages
+- MGN12 6mm Belts
+- ~~MGN12 9mm Belts~~
+- ~~MGN9 6mm Belts~~
+- ~~MGN9 9mm Belts~~
+
 ### Extruders
 - VZ-Hextrudort
 - microsherpa
