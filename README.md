@@ -7,10 +7,12 @@ BreakNeck is currently in Semi-Closed Alpha, that is to say, i havent publicly s
 ## [ASSEMBLY GUIDE](https://github.com/leddhedd/BreakNeck/blob/main/Images/Assembly/Assembly-Instructions.md)
 
 <p align="center">
-  <img src="https://github.com/leddhedd/BreakNeck/blob/main/Images/Header.png" alt="Header"/>
+  <img src="https://github.com/leddhedd/BreakNeck/blob/main/Images/sizes.png" alt="Header"/>
 </p>
 
 ![image](https://github.com/leddhedd/BreakNeck/blob/main/Images/Core.png)
+![image](https://github.com/leddhedd/BreakNeck/blob/main/Images/Header.png)
+
 
 ## What is this?
 
