@@ -4,6 +4,8 @@ BreakNeck Toolhead for the Voron ecosystem. CPAP + experimental filament path
 ## THIS IS A WIP
 BreakNeck is currently in Semi-Closed Alpha, that is to say, i havent publicly shared this repo, but it is not private, and has been shared around a little, however the toolhead is NOT feature complete yet, and will not be fully documented until open beta
 
+Check out the Armchair Engineering Discord, and join the Breakneck User-Project ***[HERE](https://discord.com/channels/1029426383614648421/1071214081236816012)***
+
 ## [ASSEMBLY GUIDE](https://github.com/leddhedd/BreakNeck/blob/main/Images/Assembly/Assembly-Instructions.md)
 
 <p align="center">
