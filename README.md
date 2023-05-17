@@ -42,9 +42,9 @@ strikethrough is incomplete but planned
 
 ### Carriages
 - MGN12 6mm Belts
-- ~~MGN12 9mm Belts~~
-- ~~MGN9 6mm Belts~~
-- ~~MGN9 9mm Belts~~
+- MGN12 9mm Belts
+- MGN9 6mm Belts
+- MGN9 9mm Belts
 
 ### Extruders
 - VZ-Hextrudort
@@ -56,19 +56,20 @@ strikethrough is incomplete but planned
 - Goliath - LARGE
 - RapidoUHF - Medium
 - RapidoHF - Small
-- ~~DragonUHF~~
+- DragonUHF
 - ~~Waterheater~~
 
 ### Probes
 - Beacon
 - ~~TAP~~
-- ~~Klicky/PCB~~
+- Klicky
+- Klicky/PCB
 - ~~Euclid~~
 
 More to be added as development continues.
 
 # WE STAND ON THE SHOULDERS OF GIANTS
 
-i want to give a particularly huge thanks to DoubleT, aTinyShellScript, Derpimus, Corvid, Kmobs, ohpvp, ByThorsThunder, Frank.af and many others for getting stuck in, test printing parts, and in some particularly idiotic cases, trialing, fitting and using the toolhead. the 3dp community wouldnt be what it is without the contibution and help of individuals like these, and i certainly wouldnt have completed the project to this level of polish without their help.
+i want to give a particularly huge thanks to DoubleT, aTinyShellScript, Derpimus, Corvid, Maz, Kmobs, Smokescreens, Zackm0n, ohpvp, DWTas, ByThorsThunder, Frank.af and many others for getting stuck in, test printing parts, and in some particularly idiotic cases, trialing, fitting and using the toolhead. the 3dp community wouldnt be what it is without the contibution and help of individuals like these, and i certainly wouldnt have completed the project to this level of polish without their help.
 
 Huge thanks to all the guys over at the Armchair Engineering, Voron, and Annex discord for all the help and support in bringing this project together.
