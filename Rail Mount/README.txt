@@ -1,1 +1,1 @@
-filler
+Print all of the STLs in the appropriate carriage folder for your machine. if you are using 6mm belts, print ALL 4 of the stoppers, LU is left upper, LL is left lower, RU is right upper and RL is right lower. install the stoppers on the ends of the belts after inserting them into the belt clamps to prevent them walking up the screws
