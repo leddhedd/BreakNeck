@@ -1,12 +1,17 @@
 # BreakNeck
-BreakNeck Toolhead for the Voron ecosystem. CPAP + experimental filament path
 
-## THIS IS A WIP
-BreakNeck is currently in Semi-Closed Alpha, that is to say, i havent publicly shared this repo, but it is not private, and has been shared around a little, however the toolhead is NOT feature complete yet, and will not be fully documented until open beta
+<p align="center">
+  <img src="https://github.com/leddhedd/BreakNeck/blob/main/Images/BreakNeck Front Render.PNG" alt="Header"/>
+</p>
+
+BreakNeck Toolhead for the Voron ecosystem. CPAP + experimental filament path
 
 Check out the Armchair Engineering Discord, and join the Breakneck User-Project ***[HERE](https://discord.com/channels/1029426383614648421/1071214081236816012)***
 
-## [ASSEMBLY GUIDE](https://github.com/leddhedd/BreakNeck/blob/main/Images/Assembly/Assembly-Instructions.md)
+## THIS IS A WIP
+BreakNeck is currently in Open Alpha. The toolhead is NOT yet feature complete, and will not be fully documented until open beta. Please be patient and ask in the discord if you have any issues.
+
+## [> > > ASSEMBLY GUIDE < < <](https://github.com/leddhedd/BreakNeck/blob/main/Images/Assembly/Assembly-Instructions.md)
 
 <p align="center">
   <img src="https://github.com/leddhedd/BreakNeck/blob/main/Images/sizes.png" alt="Header"/>
@@ -49,27 +54,28 @@ strikethrough is incomplete but planned
 ### Extruders
 - VZ-Hextrudort
 - microsherpa
+- Kyro
 - ~~DFA~~
-- ~~TwistChief~~
 
 ### Hotends:
 - Goliath - LARGE
 - RapidoUHF - Medium
 - RapidoHF - Small
 - DragonUHF
+- ~~Volcmosq/Magnum+~~
 - ~~Waterheater~~
 
 ### Probes
 - Beacon
-- ~~TAP~~
 - Klicky
 - Klicky/PCB
 - ~~Euclid~~
+- ~~TAP~~
 
 More to be added as development continues.
 
 # WE STAND ON THE SHOULDERS OF GIANTS
 
-i want to give a particularly huge thanks to DoubleT, aTinyShellScript, Derpimus, Corvid, Maz, Kmobs, Smokescreens, Zackm0n, ohpvp, DWTas, ByThorsThunder, Frank.af and many others for getting stuck in, test printing parts, and in some particularly idiotic cases, trialing, fitting and using the toolhead. the 3dp community wouldnt be what it is without the contibution and help of individuals like these, and i certainly wouldnt have completed the project to this level of polish without their help.
+i want to give a particularly huge thanks to DoubleT, aTinyShellScript, Derpimus, Corvid, Maz, Kmobs, Smokescreens, Zackm0n, ohpvp, DWTas, ByThorsThunder, Frank.af, Kyleisah and many others for getting stuck in, test printing parts, and in some particularly idiotic cases, trialing, fitting and using the toolhead. the 3dp community wouldnt be what it is without the contibution and help of individuals like these, and i certainly wouldnt have completed the project to this level of polish without their help.
 
 Huge thanks to all the guys over at the Armchair Engineering, Voron, and Annex discord for all the help and support in bringing this project together.
