@@ -16,6 +16,13 @@ i want to give a particularly huge thanks to DoubleT, aTinyShellScript, Derpimus
 
 Huge thanks to all the guys over at the Armchair Engineering, Voron, and Annex discord for all the help and support in bringing this project together.
 
+## What is this?
+
+if you have stumbled across this repo, you are looking at the predecessor to **ARMPITHEIGHT** , i will leave the following description of what Breakneck was below for some back-lore.
+
+Breakneck was a toolhead designed primarily for the Voron ecosystem, and any other front rail, front belt CoreXY Printer.
+The main features and testing focus of the toolhead were remote air cooling, and a deliberate bend in the post-extruder filament path, for the purposes of inducing a bowden-like buffering effect.
+
 ## [> > > ASSEMBLY GUIDE < < <](https://github.com/leddhedd/BreakNeck/blob/main/Images/Assembly/Assembly-Instructions.md)
 
 <p align="center">
@@ -26,12 +33,7 @@ Huge thanks to all the guys over at the Armchair Engineering, Voron, and Annex d
 ![image](https://github.com/leddhedd/BreakNeck/blob/main/Images/Header.png)
 
 
-## What is this?
 
-if you have stumbled across this repo, you are looking at the predecessor to **ARMPITHEIGHT** , i will leave the following description of what Breakneck was below for some back-lore.
-
-Breakneck was a toolhead designed primarily for the Voron ecosystem, and any other front rail, front belt CoreXY Printer.
-The main features and testing focus of the toolhead were remote air cooling, and a deliberate bend in the post-extruder filament path, for the purposes of inducing a bowden-like buffering effect.
 
 ![image](https://github.com/leddhedd/BreakNeck/blob/main/Images/airflow%20path.png)
 
