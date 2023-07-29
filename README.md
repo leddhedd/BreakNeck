@@ -1,7 +1,7 @@
 # BreakNeck
 
 <p align="center">
-  <img src="https://github.com/leddhedd/BreakNeck/blob/main/Images/BreakNeck_Front_Render.png" alt="Header"/>
+  <img src="https://github.com/leddhedd/BreakNeck/blob/main/Images/ArmpitHeightTeaser.png" alt="Header"/>
 </p>
 
 BreakNeck Toolhead for the Voron ecosystem. CPAP + experimental filament path
